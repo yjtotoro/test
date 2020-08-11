@@ -5,6 +5,6 @@ public class HelloGit {
         System.out.println("测试一");
         System.out.println("dev 测试");
         System.out.println("冲突测试");
-        System.out.println("线下更新");
+        System.out.println("线下");
     }
 }
